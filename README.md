@@ -7,6 +7,5 @@ The code runs with Python and requires Tensorflow of version 1.2.1 or higher and
 - `tensorflow` 
 - `keras`
 - `pandas`
-- `nltk`
  
  
