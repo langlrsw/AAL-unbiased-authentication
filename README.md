@@ -1,6 +1,4 @@
-# AAL-unbiased-authentication
-Additive Adversarial Learning for Unbiased Authentication
-
+# AAL-UA
 The implementation of our Additive Adversarial Learning for Unbiased Authentication method by Keras
 
 ## Dependencies
